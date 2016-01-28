@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MasterYodaAPI.BusinessLogicLayer")]
+[assembly: AssemblyTitle("MasterYodaAPI.ApplicationLayer.Specs")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MasterYodaAPI.BusinessLogicLayer")]
+[assembly: AssemblyProduct("MasterYodaAPI.ApplicationLayer.Specs")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7025ee88-5ea1-4c9b-9b1c-f975d02b548d")]
+[assembly: Guid("ad71e0ef-2a7d-467d-b529-e450b01bd01e")]
 
 // Version information for an assembly consists of the following four values:
 //

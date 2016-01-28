@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MasterYodaAPI.BusinessLogicLayer
+namespace MasterYodaAPI.DataAdapterLayer.Specs
 {
     public class Class1
     {
