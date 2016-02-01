@@ -12,5 +12,7 @@
         public string contraseña { get; set; }
         public string telefono { get; set; }
 
+        public string url { get; set; }
+
     }
 }

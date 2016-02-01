@@ -9,6 +9,10 @@ namespace MasterYodaAPI.DataAdapterLayer
 {
     public class MasterYodaAPIContext : DbContext
     {
+        public MasterYodaAPIContext() : base("name=yodamasterDB")
+        {
+            
+        }
         public DbSet<User> Users { get; set; }
 
     }
