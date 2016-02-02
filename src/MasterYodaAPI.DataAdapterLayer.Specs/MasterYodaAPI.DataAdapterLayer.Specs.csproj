@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="when_getting_account_type.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
